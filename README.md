@@ -6,3 +6,5 @@ TSS Module ID:Section Number:Available Seats/Total Seats/Waitlisted Seats
 ```
 
 mapping from `TSS Module ID <-> Course Name` is found in [`moduleid-coursename-mapping`](/moduleid-coursename-mapping)
+
+due to tss outages during first pass window, data on 11/10 and 11/12 is heavily reduced
